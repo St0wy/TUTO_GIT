@@ -10,3 +10,7 @@ text-align: justify;
 body{
 background-color:purple;
 }
+
+audio { 
+width: auto; 
+}
