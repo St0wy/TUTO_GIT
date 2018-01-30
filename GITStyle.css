@@ -1,4 +1,12 @@
+h1 {
+font-size: 100px;
+}
 p {
 align:left;
 width:250px;
+color: red;
+text-align: justify;
+}
+body{
+background-color:purple;
 }
